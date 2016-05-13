@@ -2,7 +2,7 @@
   "name": "@heathmont/amqplib",
   "homepage": "http://squaremo.github.io/amqp.node/",
   "main": "./channel_api.js",
-  "version": "0.4.2",
+  "version": "0.4.1",
   "description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
   "repository": {
     "type": "git",
@@ -32,6 +32,7 @@
     "AMQP 0-9-1",
     "RabbitMQ"
   ],
+  "typings": "channel_api.d.ts",
   "author": "Michael Bridgen <mikeb@squaremobius.net>",
   "license": "MIT"
 }

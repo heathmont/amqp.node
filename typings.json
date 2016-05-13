@@ -1,0 +1,9 @@
+{
+  "name": "@heathmont/amqplib",
+  "version": false,
+  "files": [
+  	"properties.d.ts",
+  	"channel_api.d.ts",
+  	"callback_api.d.ts"
+  ]
+}
